@@ -1,0 +1,168 @@
+{
+    "questions": [
+        {
+            "question": "What is the capital of France?",
+            "options": [ "London", "Paris", "Berlin"],
+            "correctAnswer": "Paris"
+        },
+        {
+            "question": "What is the tallest mountain in the world?",
+            "options": [ "Mount Everest", "Mount Kilimanjaro", "Mount Fuji" ],
+            "correctAnswer": "Mount Everest"
+        },
+        {
+            "question": "What is the largest country in the world by land area?",
+            "options": [ "Russia", "Canada", "China"],
+            "correctAnswer": "Russia"
+        },
+        {
+            "question": "Who was the first Prime Minister of Nigeria?",
+            "options": [ "Nnamdi Azikiwe", "Abubakar Tafawa Balewa", "Ahmadu Bello" ],
+            "correctAnswer": "Abubakar Tafawa Balewa"
+        },
+
+        {
+            "question": "Who was the first President of Nigeria?",
+            "options": [ "Obafemi Awolowo", "Ahmadu Bello", "Abubakar Tafawa Balewa" ],
+            "correctAnswer": "Abubakar Tafawa Balewa"
+        },
+
+        {
+            "question": "What was the name of the Nigerian civil war that lasted from 1967 to 1970?",
+            "options": [ "Niger Delta Crisis", "Boko Haram Insurgency", "Nigerian-Biafran War" ],
+            "correctAnswer": "Nigerian-Biafran War"
+        },
+
+        {
+            "question": "Which Nigerian musician is known as the 'King of Afrobeat'?",
+            "options": [ "Fela Kuti", "Burna Boy", "Davido" ],
+            "correctAnswer": "Fela Kuti"
+        },
+        {
+            "question": "Who was the first military ruler of Nigeria after a successful coup in 1966?",
+            "options": [ "Yakubu Gowon", "Ibrahim Babangida", "Muhammadu Buhari" ],
+            "correctAnswer": "Yakubu Gowon"
+        },
+        {
+            "question": "What was the significance of October 1, 1960, in Nigerian history?",
+            "options": [ "Nigeria gained independence from British colonial rule", "Nigeria became a republic", "Nigeria adopted a new constitution"],
+            "correctAnswer": "Nigeria gained independence from British colonial rule"
+        },
+        {
+            "question": "Which Nigerian novelist is best known for his works 'Things Fall Apart' and 'No Longer at Ease'?",
+            "options": [ "Chinua Achebe", "Wole Soyinka", "Chimamanda Ngozi Adichie", "Buchi Emecheta" ],
+            "correctAnswer": "Chinua Achebe"
+        },
+        {
+            "question": "What was the name of the Nigerian youth-led movement that emerged in 2020 to protest against police brutality, corruption, and bad governance?",
+            "options": [ "#EndSARS", "#BringBackOurGirls", "#NotTooYoungToRun" ],
+            "correctAnswer": "#EndSARS"
+        },
+        {
+            "question": "What was the name of the Nigerian military ruler who served as Head of State from 1999 to 2007?",
+            "options": [
+                "Sani Abacha",
+                "Ibrahim Babangida",
+                "Olusegun Obasanjo"
+                
+            ],
+            "correctAnswer": "Olusegun Obasanjo"
+        },
+        {
+            "question": "Who was the first Nigerian female astronaut to go to space?",
+            "options": [
+                "Funmilayo Ransome-Kuti",
+                "Adefolake Adekola",
+                "Mae C. Jemison"
+                
+            ],
+            "correctAnswer": "Adefolake Adekola"
+        },
+        {
+            "question": "What is the largest ethnic group in Nigeria?",
+            "options": [
+                "Yoruba",
+                "Igbo",
+                "Hausa"
+            ],
+            "correctAnswer": "Hausa"
+        },
+        {
+            "question": "Which Nigerian city is known as the 'Centre of Excellence'?",
+            "options": [
+                "Lagos",
+                "Abuja",
+                "Port Harcourt"
+                
+            ],
+            "correctAnswer": "Lagos"
+        },
+        {
+            "question": "What is the national currency of Nigeria?",
+            "options": [
+                "Naira",
+                "Cedi",
+                "Rand"
+                
+            ],
+            "correctAnswer": "Naira"
+        },
+        {
+            "question": "Who is the current President of Nigeria?",
+            "options": [
+                "Muhammadu Buhari",
+                "Goodluck Jonathan",
+                "Olusegun Obasanjo"
+                
+            ],
+            "correctAnswer": "Muhammadu Buhari"
+        },
+        {
+            "question": "What is the official language of Nigeria?",
+            "options": [
+                "English",
+                "French",
+                "Swahili"
+                
+            ],
+            "correctAnswer": "English"
+        },
+        {
+            "question": "Which Nigerian musician won the 2021 Grammy Award for Best Global Music Album?",
+            "options": [
+                "Femi Kuti",
+                "Burna Boy",
+                "Wizkid"
+                
+            ],
+            "correctAnswer": "Wizkid"
+        },
+        {
+            "question": "Who was the first Nigerian female to win an Olympic gold medal?",
+            "options": [
+                "Blessing Okagbare",
+                "Mary Onyali",
+                "Chioma Ajunwa"
+                
+            ],
+            "correctAnswer": "Chioma Ajunwa"
+        },
+        {
+            "question": "What is the largest river in Nigeria?",
+            "options": [
+                "Niger River",
+                "Benue River",
+                "Congo River"
+               
+            ],
+            "correctAnswer": "Niger River"
+        }
+    ]
+}
+        
+           
+                
+     
+        
+
+           

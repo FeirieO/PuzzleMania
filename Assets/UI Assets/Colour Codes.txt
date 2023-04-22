@@ -1,0 +1,7 @@
+#83D49E - Green.
+#FC317B - Red.
+
+Font - Poppins.
+
+
+
